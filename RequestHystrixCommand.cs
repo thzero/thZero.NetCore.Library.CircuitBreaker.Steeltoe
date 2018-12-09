@@ -1,5 +1,5 @@
 ﻿/* ------------------------------------------------------------------------- *
-thZero.NetCore.Library.Asp
+thZero.NetCore.Library.CircuitBreaker.Steeltoe
 Copyright (C) 2016-2018 thZero.com
 
 <development [at] thzero [dot] com>
